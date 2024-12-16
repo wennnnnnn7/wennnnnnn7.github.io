@@ -1,0 +1,53 @@
+html {
+  font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
+  /* following get from the font website */
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal; /* this should be the rest of the output you got from Google Fonts */
+}
+
+.small-image {
+  width: 200px; /* Adjust this value to make the image smaller */
+  height: auto; /* Maintain the aspect ratio */
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 26px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #e5ceed;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #acd8e6;
+  padding: 0 20px 20px 20px;
+  border: 2px solid purple;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 2px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
